@@ -1,1 +1,54 @@
+[
+  {
+    "id": 1,
+    "couleur": "orange",
+    "libCouleur": "J+45 dépassé et pas de RP",
+    "nomOperation": "COMMISSARIAT DE SELETAT",
+	"numPolice": "123456789"
+	"codeRefExt" : "1XX2YY3OO"
+	"initiales": "CY",
+	"refExpertise": "ACX123456",
+	"etat": "Ouvert",
+	"enjeu": "Sous TM",
+	"j45": 20220215,
+	"j60": 20220415
+	"j90": 20220526,
+	"numEcrac": "CRAC20220101",
+	"nbDommages": 1
 
+  },
+  {
+   "id": 2,
+    "couleur": "rouge",
+    "libCouleur": "J+90 dépassé et pas de RU",
+    "nomOperation": "CONFLANS SAINTE HONORINE",
+	"numPolice": "123456789"
+	"codeRefExt" : "1XX2YY3OO"
+	"initiales": "CY",
+	"refExpertise": "ACX12478",
+	"etat": "Ouvert",
+	"enjeu": "Sous TM",
+	"j45": 20220215,
+	"j60": 20220415
+	"j90": 20220526,
+	"numEcrac": "CRAC20220101",
+	"nbDommages": 1
+  },
+  {
+    "id": 3,
+    "couleur": "",
+    "libCouleur": "",
+    "nomOperation": "COMMISSARIAT DE SELETAT BIS",
+	"numPolice": "123456789"
+	"codeRefExt" : "1XX2YY3OO"
+	"initiales": "CY",
+	"refExpertise": "ACX123456",
+	"etat": "Ouvert",
+	"enjeu": "Sous TM",
+	"j45": 20220215,
+	"j60": 20220415
+	"j90": 20220526,
+	"numEcrac": "CRAC20220101",
+	"nbDommages": 2
+  }
+]
